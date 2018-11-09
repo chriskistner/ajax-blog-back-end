@@ -1,0 +1,31 @@
+{
+  "name": "ajax-blog-back-end",
+  "version": "1.0.0",
+  "description": "Server-side file for Ajax Blog Project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chriskistner/ajax-blog-back-end.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chriskistner/ajax-blog-back-end/issues"
+  },
+  "homepage": "https://github.com/chriskistner/ajax-blog-back-end#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "morgan": "^1.9.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
