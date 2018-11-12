@@ -3,11 +3,13 @@ const app = express();
 const port = process.env.PORT || 3000;
 const bodyParser = require('body-parser');
 const morgan = require('morgan');
+const cors = require('cors');
 
 app.disable('x-powered-by');
 app.use(morgan('dev'));
 app.use(bodyParser.json());
 if (process.env.NODE_ENV === 'development') app.use(morgan('dev'));
+app.use(cors());
 
 const blogRoutes = require('./src/routes/blog-routes');
 app.use('/blog', blogRoutes);

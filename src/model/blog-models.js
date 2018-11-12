@@ -18,7 +18,7 @@ function getBlog (id) {
     return result;
 }
 
-function newBlog (title, content) {
+function newBlog ( title, content) {
     let newBlog = { id: uuid().slice(0,8), title, date: currentDate(), content };
     const blogs = fs.readFileSync(path.join(__dirname,'../../data/blog.json'),'utf-8');
     const blogLibrary = JSON.parse(blogs);
