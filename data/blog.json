@@ -1,52 +1,22 @@
 {
     "data": [
         {
-            "id": "b183bf74",
-            "title": "First Post Attempt",
-            "date": "11/12/2018, 13:31",
-            "content": "First Post Attempt from the front end"
-        },
-        {
-            "id": "9bbbdf69",
-            "title": "dfgdrgsdrdsgrs",
-            "date": "11/12/2018, 13:32",
-            "content": "Hello This is a test Blog Entry"
-        },
-        {
             "id": "c9b706ef",
-            "title": "First Attempt at Getting this to work",
-            "date": "11/12/2018, 13:33",
-            "content": "Yello World I've got a Blog working."
+            "title": "Second Attempt at Updating",
+            "date": "11/13/2018, 14:04",
+            "content": "Yello World I've got a Blog working. And now I can update it."
         },
         {
-            "id": "9d76efe0",
-            "title": "First Attempt at Getting this to work",
-            "date": "11/12/2018, 13:34",
-            "content": "Yello World I've got a Blog working."
+            "id": "2dac66ac",
+            "title": "Test Blog 2",
+            "date": "11/13/2018, 14:05",
+            "content": "\nLOREM IPSUM GENERATOR\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
         },
         {
-            "id": "09e948ed",
-            "title": "First Attempt at Getting this to work",
-            "date": "11/12/2018, 13:34",
-            "content": "frgrgrthsfhj,uightdyjyujyyuffkfjk"
-        },
-        {
-            "id": "980a2d39",
-            "title": "First Attempt at Getting this to work",
-            "date": "11/12/2018, 13:34",
-            "content": "Hello This is a test Blog Entry"
-        },
-        {
-            "id": "0908641c",
-            "title": "Eleventh Post Attempt",
-            "date": "11/12/2018, 13:40",
-            "content": "frgrgrthsfhj,uightdyjyujyyuffkfjk"
-        },
-        {
-            "id": "81249751",
-            "title": "Thirteenth Test Post",
-            "date": "11/12/2018, 13:52",
-            "content": "First attempt with text area field"
+            "id": "57809950",
+            "title": "Practice Blog 3",
+            "date": "11/13/2018, 14:05",
+            "content": "LOREM IPSUM GENERATOR\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
         }
     ]
 }

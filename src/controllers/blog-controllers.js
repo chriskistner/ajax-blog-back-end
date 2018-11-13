@@ -16,7 +16,7 @@ function allBlogs (req, res, next) {
   if (!result)
     return next({ status: 404, message: "Blog not Found" });
 
-  res.status(302).send(result);
+  res.status(200).send(result);
 };
 
 function newBlog (req, res, next) {
