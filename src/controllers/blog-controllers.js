@@ -3,6 +3,7 @@ const model = require('../model/blog-models');
 function allBlogs (req, res, next) {
   const result = model.allBlogs();
 
+  // if there are no blogs, just send back an empty array
   if (!result)
     return next({status: 404, message: "Sorry, your Blog is Empty."})
 
